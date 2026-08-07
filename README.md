@@ -7,8 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:00E5FF,100:8A2BE2&text=SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=fadeIn"/>
 
-# ⚡ AI CORE INITIALIZATION
-
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
