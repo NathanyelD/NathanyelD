@@ -1,6 +1,4 @@
-# 👨‍💻 Nathanyel
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E5FF&center=false&vCenter=true&width=600&lines=Python+Developer+%7C+Student;Building+projects+and+learning+every+day.;Turning+ideas+into+code.">
+# 👨‍💻 
 
 > 🇧🇷 Desenvolvedor em formação, estudante de Informática e apaixonado por tecnologia.
 
