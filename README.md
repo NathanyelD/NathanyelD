@@ -53,7 +53,7 @@ Tenho direcionado minha trajetória para tecnologias como **Java, Spring Boot, P
 
 ## 📫 Vamos nos conectar?
 
-💼 **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/nathanyel-dorneles-menezes-2827a744b/)
+💼 **LinkedIn:** [Meu perfil profissional](https://www.linkedin.com/in/nathanyel-dorneles-2827a744b//)
 
 💻 **GitHub:** [github.com/NathanyelD](https://github.com/NathanyelD)
 
